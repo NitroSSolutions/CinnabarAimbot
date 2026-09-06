@@ -1,13 +1,52 @@
-# CinnabarAimbot
+<p align="center">
+  <img src=".github/assets/Logo_Animated.svg" alt="Fedoraware Logo" width="250" align="center">
+  <br/>
+  <a href="https://nightly.link/Fedoraware/Fedoraware/workflows/msbuild/main/Fedoraware.zip">
+    <img src=".github/assets/download.png" alt="Download Button" width="400" height="auto" align="center">
+  </a>
+</p>
 
-<img width="600" height="508" alt="cbarloadedimg" src="https://github.com/user-attachments/assets/d8fc4bda-38f4-47a5-8836-ee48f0965fc4" />
+# Fedoraware
 
-# AIMBOT and ESP
-<img width="1447" height="1080" alt="CBARNPCIMG" src="https://github.com/user-attachments/assets/f960b8e0-440a-4bc8-b9b4-b679a3deef3c" />
-<img width="1920" height="1080" alt="CBARLOLIMG" src="https://github.com/user-attachments/assets/b2a1aaf1-5902-4008-9951-5e3f2555d21e" />
+[![GitHub Repo stars](https://img.shields.io/github/stars/Fedoraware/Fedoraware)](/../../stargazers)
+[![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/Fedoraware/Fedoraware/msbuild.yml?branch=main)](/../../actions)
+[![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/Fedoraware/Fedoraware)](/../../commits/)
 
-# EXPLOITS MENU and BACKDOOR TABLE
-<img width="1920" height="1080" alt="CBAREXPLOIT" src="https://github.com/user-attachments/assets/71d51e2c-4abd-428a-82c7-6248b46e884d" />
+A Premium Cheat Inspired By Other Premium Cheats (dsc.gg/quackedsolutionscommunity).
 
+## Notes
 
-Features List 
+- It does not use an Injector and is currently ran with lua_open command console.
+- Some Addons could cause cheat to have problems.
+- The source code is most likely **DETECTED**, even tho the cheat is maintained and has AutoDetectors to Prevent Banning, we are not responsible if you do get Banned. Don't cheat on accounts you care about.
+- Read Cinnabar Documentation in the Quacked.Solutions DISCORD (dsc.gg/quackedsolutionscommunity).
+
+## Guide
+
+- We suggest using [Fedoraloader](https://github.com/Fedoraware/Fedoraloader/releases) as it downloads the latest build and injects it with minimal crashing. It also includes a VAC bypass.
+- Alternatively, use an injector like [Xenos](https://github.com/DarthTon/Xenos/releases) to inject the dll into TF2. [(Tutorial)](https://www.youtube.com/watch?v=PT3kVA053IY)
+- **If you have any suggestions for the cheat, or questions about it**
+- **GO HERE -> (dsc.gg/quackedsolutionscommunity)**
+
+## Features Summary
+
++ Aimbot
++ Aimbot Logic | Normal , Silent , LemARADVANCED 
+
++ ESP
++ ESP Logic | Chams , Boxes , DrawPoints , SELFArmChams , MiniMap  , MiniMapADVANCED and MORE
+  
++ AntiCheat Detector
++ AntiCheat Detector Logic | CAC , VAC , GAC , SNTE , QAC and MORE
+
++ Automation
++ Automation Logic | SpinBot , JitterBot and MORE
+
++ Exploit Menu
++ Exploit Logic | BackDoor Exploits , Crasher Exploits , Lagger Exploits , Custom Exploits ,
++ 
+## Credits to
+
+- Quack of Quacked.Solutions
+- and Quacked.Solution Community)
+
