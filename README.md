@@ -1,9 +1,12 @@
+<p align="center">
+  <img src=".github/assets/Logo_Animated.svg" alt="Fedoraware Logo" width="250" align="center">
+  <br/>
+  <a href="">
+    <img src=".github/assets/download.png" alt="Download Button" width="400" height="auto" align="center">
+  </a>
+</p>
+
 # Cinnabar By Quacked.Solutions
-
-
-[![GitHub Repo stars]https://github.com/NitroSSolutions/CinnabarAimbot/issues](/../../stargazers)
-[![GitHub Workflow Status (with event)](https://github.com/NitroSSolutions/CinnabarAimbot/issues)](/../../actions)
-[![GitHub commit activity (branch)]https://github.com/NitroSSolutions/CinnabarAimbot/issues](/../../commits/)
 
 A Premium Cheat Inspired By Other Premium Cheats (dsc.gg/quackedsolutionscommunity).
 
