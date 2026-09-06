@@ -1,12 +1,5 @@
-<p align="center">
-  <img src=".github/assets/Logo_Animated.svg" alt="Fedoraware Logo" width="250" align="center">
-  <br/>
-  <a href="">
-    <img src=".github/assets/download.png" alt="Download Button" width="400" height="auto" align="center">
-  </a>
-</p>
-
 # Cinnabar By Quacked.Solutions
+
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/Fedoraware/Fedoraware)](/../../stargazers)
 [![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/Fedoraware/Fedoraware/msbuild.yml?branch=main)](/../../actions)
