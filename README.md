@@ -2,7 +2,7 @@
 
 
 [![GitHub Repo stars]https://github.com/NitroSSolutions/CinnabarAimbot/issues](/../../stargazers)
-[![GitHub Workflow Status (with event)]https://github.com/NitroSSolutions/CinnabarAimbot/issues](/../../actions)
+[![GitHub Workflow Status (with event)](https://github.com/NitroSSolutions/CinnabarAimbot/issues)](/../../actions)
 [![GitHub commit activity (branch)]https://github.com/NitroSSolutions/CinnabarAimbot/issues](/../../commits/)
 
 A Premium Cheat Inspired By Other Premium Cheats (dsc.gg/quackedsolutionscommunity).
