@@ -6,7 +6,7 @@
   </a>
 </p>
 
-# Fedoraware
+# Cinnabar By Quacked.Solutions
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/Fedoraware/Fedoraware)](/../../stargazers)
 [![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/Fedoraware/Fedoraware/msbuild.yml?branch=main)](/../../actions)
