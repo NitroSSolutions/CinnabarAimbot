@@ -1,9 +1,9 @@
 # Cinnabar By Quacked.Solutions
 
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/Fedoraware/Fedoraware)](/../../stargazers)
-[![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/Fedoraware/Fedoraware/msbuild.yml?branch=main)](/../../actions)
-[![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/Fedoraware/Fedoraware)](/../../commits/)
+[![GitHub Repo stars]https://github.com/NitroSSolutions/CinnabarAimbot/issues](/../../stargazers)
+[![GitHub Workflow Status (with event)]https://github.com/NitroSSolutions/CinnabarAimbot/issues](/../../actions)
+[![GitHub commit activity (branch)]https://github.com/NitroSSolutions/CinnabarAimbot/issues](/../../commits/)
 
 A Premium Cheat Inspired By Other Premium Cheats (dsc.gg/quackedsolutionscommunity).
 
