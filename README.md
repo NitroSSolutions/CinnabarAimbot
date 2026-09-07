@@ -1,10 +1,5 @@
-<p align="center">
-  <img src=".github/assets/Logo_Animated.svg" alt="Quacked.Solutions" width="250" align="center">
-  <br/>
-  <a href="TEST">
-    <img src=".github/assets/download.png" alt="DownloadButton" width="400" height="auto" align="center">
-  </a>
-</p>
+<img width="900" height="600" alt="rglowcbar" src="https://github.com/user-attachments/assets/ec78b745-2ac8-401f-b968-300980394a1c" />
+
 
 # Cinnabar By Quacked.Solutions
 
