@@ -1,3 +1,5 @@
+
+
 <img width="538" height="600" alt="rglowcbarv2" src="https://github.com/user-attachments/assets/c3dd77ce-3fd5-4992-9147-8302782bd7f9" />
 
 
@@ -5,6 +7,8 @@
 # Cinnabar By Quacked.Solutions
 
 A Premium Cheat Inspired By Other Premium Cheats (dsc.gg/quackedsolutionscommunity).
+
+<img width="1920" height="1080" alt="8-6-2026 img" src="https://github.com/user-attachments/assets/6772a633-77fc-4ee0-ae85-71b1759b4638" />
 
 ## Notes
 
