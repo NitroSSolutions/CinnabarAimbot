@@ -8,7 +8,8 @@
 
 A Premium Cheat Inspired By Other Premium Cheats (dsc.gg/quackedsolutionscommunity).
 
-<img width="1920" height="1080" alt="8-6-2026 img" src="https://github.com/user-attachments/assets/6772a633-77fc-4ee0-ae85-71b1759b4638" />
+<img width="1920" height="1080" alt="8-6-2026 img - Copy" src="https://github.com/user-attachments/assets/559004a8-cabd-411b-bc8a-5a61434e11c6" />
+
 
 ## Notes
 
