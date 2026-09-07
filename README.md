@@ -1,10 +1,10 @@
-
+# CinnabarAimbot
 
 <img width="538" height="600" alt="rglowcbarv2" src="https://github.com/user-attachments/assets/c3dd77ce-3fd5-4992-9147-8302782bd7f9" />
 
 
 
-# Cinnabar By Quacked.Solutions
+## Cinnabar By Quacked.Solutions
 
 A Premium Cheat Inspired By Other Premium Cheats (dsc.gg/quackedsolutionscommunity).
 
