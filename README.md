@@ -1,4 +1,5 @@
-<img width="900" height="600" alt="rglowcbar" src="https://github.com/user-attachments/assets/ec78b745-2ac8-401f-b968-300980394a1c" />
+<img width="538" height="600" alt="rglowcbarv2" src="https://github.com/user-attachments/assets/c3dd77ce-3fd5-4992-9147-8302782bd7f9" />
+
 
 
 # Cinnabar By Quacked.Solutions
